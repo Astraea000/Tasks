@@ -1,0 +1,4 @@
+# 关于Markdown的学习
+
+Markdown就是为了给程序员减负，所以本质上他的学习也很简单，多练习自然就会掌握相关语法知识，所以这里直接给一个链接直达别人的经验帖，就不过多赘述。[markdown1]([(10 封私信 / 80 条消息) 为什么用Markdown，而不用Word？ - 知乎](https://zhuanlan.zhihu.com/p/86516807))[markdown2]([(10 封私信 / 80 条消息) Markdown语法及原理从入门到高级（可能是全网最全） - 知乎](https://zhuanlan.zhihu.com/p/99319314))
+
