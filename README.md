@@ -13,12 +13,12 @@
 [问题解决记录](https://github.com/Astraea000/Tasks/blob/main/%E9%98%B6%E6%AE%B5%E4%B8%80/QS1.md)
 
 ## 阶段二
-[Git 学习笔记]
+[Git 学习笔记](https://github.com/Astraea000/Tasks/blob/main/%E9%98%B6%E6%AE%B5%E4%BA%8C/Git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
-[Git 提交练习文档 (hello.md)]
+[Git 提交练习文档 (hello.md)]()
 
-[问题解决记录]
+[问题解决记录](https://github.com/Astraea000/Tasks/blob/main/%E9%98%B6%E6%AE%B5%E4%BA%8C/QS2.md)
 
-[Git 进阶笔记]
+[Git 进阶笔记](https://github.com/Astraea000/Tasks/blob/main/%E9%98%B6%E6%AE%B5%E4%BA%8C/Git%E8%BF%9B%E9%98%B6%E7%AC%94%E8%AE%B0.md)
 
-[other thoughts]
+[other thoughts](https://github.com/Astraea000/Tasks/blob/main/%E9%98%B6%E6%AE%B5%E4%BA%8C/other%20thoughts.md)
