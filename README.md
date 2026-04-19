@@ -42,4 +42,4 @@
 
 [页面编后感](https://github.com/Astraea000/Tasks/blob/main/阶段四/网页复刻编后感.md)
 
-[other thoughts](https://github.com/Astraea000/Tasks/blob/main/阶段四/other thoughts.md)
+[other thoughts](https://github.com/Astraea000/Tasks/blob/main/阶段四/other%20thoughts.md)
