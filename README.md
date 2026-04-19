@@ -38,8 +38,8 @@
 
 ## 阶段四
 
-[复刻网页作品链接]([Geek招新网站 加入我们](https://astraea000.github.io/geek/))
+[复刻网页作品链接](https://astraea000.github.io/geek/)
 
-[页面编后感]([Tasks/阶段四/网页复刻编后感.md at main · Astraea000/Tasks](https://github.com/Astraea000/Tasks/blob/main/阶段四/网页复刻编后感.md))
+[页面编后感](https://github.com/Astraea000/Tasks/blob/main/阶段四/网页复刻编后感.md)
 
-[other thoughts]([Tasks/阶段四/other thoughts.md at main · Astraea000/Tasks](https://github.com/Astraea000/Tasks/blob/main/阶段四/other thoughts.md))
+[other thoughts](https://github.com/Astraea000/Tasks/blob/main/阶段四/other thoughts.md)
