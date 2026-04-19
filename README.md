@@ -35,3 +35,11 @@
 [页面编后感](https://github.com/Astraea000/Tasks/blob/main/%E9%98%B6%E6%AE%B5%E4%B8%89/%E9%A1%B5%E9%9D%A2%E7%BC%96%E5%90%8E%E6%84%9F.md)
 
 [other thoughts](https://github.com/Astraea000/Tasks/blob/main/%E9%98%B6%E6%AE%B5%E4%B8%89/other%20thoughts.md)
+
+## 阶段四
+
+[复刻网页作品链接]([Geek招新网站 加入我们](https://astraea000.github.io/geek/))
+
+[页面编后感]([Tasks/阶段四/网页复刻编后感.md at main · Astraea000/Tasks](https://github.com/Astraea000/Tasks/blob/main/阶段四/网页复刻编后感.md))
+
+[other thoughts]([Tasks/阶段四/other thoughts.md at main · Astraea000/Tasks](https://github.com/Astraea000/Tasks/blob/main/阶段四/other thoughts.md))
