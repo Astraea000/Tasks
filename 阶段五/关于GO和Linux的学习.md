@@ -50,7 +50,15 @@
 
 吸取学习git的教训，这次不采用电子版的学习方式，而是对常用指令记录抄写笔记。
 
-<img src="C:\Users\郑梓航\Documents\Tencent Files\368898203\nt_qq\nt_data\Pic\2026-05\Ori\21bfb05d7e7bea5f9b51a26b0826bd05.png" alt="21bfb05d7e7bea5f9b51a26b0826bd05" style="zoom:33%;" /><img src="C:\Users\郑梓航\Documents\Tencent Files\368898203\nt_qq\nt_data\Pic\2026-05\Thumb\b4332e5b57da0dc1da724ac0eed8fde7_720.png" alt="b4332e5b57da0dc1da724ac0eed8fde7_720" style="zoom:33%;" /><img src="C:\Users\郑梓航\Documents\Tencent Files\368898203\nt_qq\nt_data\Pic\2026-05\Thumb\d5670174674242977846fffb415991af_720.png" alt="d5670174674242977846fffb415991af_720" style="zoom:33%;" /><img src="C:\Users\郑梓航\Documents\Tencent Files\368898203\nt_qq\nt_data\Pic\2026-05\Thumb\74b177c64639e1802971f8a84ee8c91e_720.png" alt="74b177c64639e1802971f8a84ee8c91e_720" style="zoom:33%;" /><img src="C:\Users\郑梓航\Documents\Tencent Files\368898203\nt_qq\nt_data\Pic\2026-05\Thumb\2b84ab58a593f6807910b1834aea9be3_720.png" alt="2b84ab58a593f6807910b1834aea9be3_720" style="zoom:33%;" />
+<img src="D:\tasks\阶段五\Linux-1.png" alt="Linux-1" style="zoom: 25%;" />
+
+<img src="D:\tasks\阶段五\Linux-2.png" alt="Linux-2" style="zoom: 25%;" />
+
+<img src="D:\tasks\阶段五\Linux-3.png" alt="Linux-3" style="zoom:25%;" />
+
+<img src="D:\tasks\阶段五\Linux-4.png" alt="Linux-4" style="zoom:25%;" />
+
+<img src="D:\tasks\阶段五\Linux-5.png" alt="Linux-5" style="zoom:25%;" />
 
 ## 三、Go的基础语法
 
