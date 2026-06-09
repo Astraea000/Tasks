@@ -426,7 +426,7 @@ IP找到主机，
 
 一张图理解网络模型
 
-<img src="D:\tasks\阶段六\网络模型.png" alt="网络模型" style="zoom:50%;" />
+<img src="网络模型.png" alt="网络模型" style="zoom:50%;" />
 
 核心记忆口诀
 
@@ -518,4 +518,4 @@ TCP 建立连接和释放连接
 
 下面贴一张图方便理解:
 
-<img src="D:\tasks\阶段六\TCP.jpg" alt="TCP" style="zoom:50%;" />
+<img src="TCP.jpg" alt="TCP" style="zoom:50%;" />

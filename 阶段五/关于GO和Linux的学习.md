@@ -50,25 +50,25 @@
 
 吸取学习git的教训，这次不采用电子版的学习方式，而是对常用指令记录抄写笔记。
 
-<img src="D:\tasks\阶段五\Linux-1.png" alt="Linux-1" style="zoom: 25%;" />
+<img src="pic/Linux-1.png" alt="Linux-1" style="zoom: 25%;" />
 
-<img src="D:\tasks\阶段五\Linux-2.png" alt="Linux-2" style="zoom: 25%;" />
+<img src="pic/Linux-2.png" alt="Linux-2" style="zoom: 25%;" />
 
-<img src="D:\tasks\阶段五\Linux-3.png" alt="Linux-3" style="zoom:25%;" />
+<img src="pic/Linux-3.png" alt="Linux-3" style="zoom:25%;" />
 
-<img src="D:\tasks\阶段五\Linux-4.png" alt="Linux-4" style="zoom:25%;" />
+<img src="pic/Linux-4.png" alt="Linux-4" style="zoom:25%;" />
 
-<img src="D:\tasks\阶段五\Linux-5.png" alt="Linux-5" style="zoom:25%;" />
+<img src="pic/Linux-5.png" alt="Linux-5" style="zoom:25%;" />
 
 ## 三、Go的基础语法
 
 然后是Go语言的基础语法部分，依旧是整理抄写Go语言的主体部分。
 
-<img src="C:\Users\郑梓航\Documents\Tencent Files\368898203\nt_qq\nt_data\Pic\2026-06\Thumb\140adf19c41234588f80cbf96fbcaafc_720.png" alt="140adf19c41234588f80cbf96fbcaafc_720" title=" style=&quot;zoom:33%;" style="zoom:33%;" />
+<img src="pic/go-1.png" alt="go-1" style="zoom:25%;" />
 
-<img src="C:\Users\郑梓航\Documents\Tencent Files\368898203\nt_qq\nt_data\Pic\2026-06\Thumb\0e5c76aa95758c57685f93710299daff_720.png" alt="0e5c76aa95758c57685f93710299daff_720" style="zoom:33%;" />
+<img src="pic/go-2.png" alt="go-2" style="zoom:25%;" />
 
-<img src="C:\Users\郑梓航\Documents\Tencent Files\368898203\nt_qq\nt_data\Pic\2026-06\Thumb\2bf253a5b8ad675c3fa95aecf2521e95_720.png" alt="2bf253a5b8ad675c3fa95aecf2521e95_720" style="zoom: 33%;" />
+<img src="pic/go-3.png" alt="go-3" style="zoom:25%;" />
 
 5.28号  继续学习  接下来是细节部分：
 
