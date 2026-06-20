@@ -43,3 +43,23 @@
 [页面编后感](https://github.com/Astraea000/Tasks/blob/main/阶段四/网页复刻编后感.md)
 
 [other thoughts](https://github.com/Astraea000/Tasks/blob/main/阶段四/other%20thoughts.md)
+
+## 阶段五
+
+[关于GO和Linux的学习](https://github.com/Astraea000/Tasks/blob/main/阶段五/关于GO和Linux的学习.md)
+
+[console程序源码](https://github.com/Astraea000/Tasks/blob/main/阶段五/console程序源码.md)
+
+[README-console](https://github.com/Astraea000/Tasks/blob/main/阶段五/README-console.md)
+
+[阶段五小结](https://github.com/Astraea000/Tasks/blob/main/阶段五/阶段五小结.md)
+
+## 阶段六
+
+[Network学习笔记](https://github.com/Astraea000/Tasks/blob/main/阶段六/Network学习笔记.md)
+
+[Demo源码](https://github.com/Astraea000/Tasks/blob/main/阶段六/Demo源码.md)
+
+[README-demo](https://github.com/Astraea000/Tasks/blob/main/阶段六/README-demo.md)
+
+[阶段六小结](https://github.com/Astraea000/Tasks/blob/main/阶段六/阶段六小结.md)
